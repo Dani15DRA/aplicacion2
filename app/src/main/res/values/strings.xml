@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">Mi Tienda</string>
+    <string name="titulo">Productos Electrónicos</string>
+    <string name="descripcion">Selecciona un producto para ver más detalles.</string>
+    <string name="ver_detalles">Ver detales</string>
+</resources>
